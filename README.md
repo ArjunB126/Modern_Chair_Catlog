@@ -15,3 +15,7 @@ Accessibility matters. My catalog is built with accessibility in mind, ensuring 
 
 # 4. CSS Animations:  
 Witness the power of CSS animations that bring the catalog to life.
+
+
+# How to Access the Catalog?
+Simply click on Modern Chair Catalog to embark on a visual journey through the future of seating. Don't just buy a chair, choose an experience.
