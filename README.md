@@ -19,3 +19,5 @@ Witness the power of CSS animations that bring the catalog to life.
 
 # How to Access the Catalog?
 Simply click on Modern Chair Catalog to embark on a visual journey through the future of seating. Don't just buy a chair, choose an experience.
+Whether you're a design enthusiast, a furniture connoisseur, or someone with an appreciation for elegant web design, this catalog has something for everyone.
+Catlog : https://arjunb126.github.io/Modern_Chair_Catlog/
